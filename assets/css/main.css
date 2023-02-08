@@ -1,0 +1,13 @@
+/* 
+- Font type yang digunakan yaitu Poppins (Light, Reguler, Bold) 
+- link klo bingung make nya gimana : https://developers.google.com/fonts/docs/css2
+*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+*{
+    font-family : 'Poppins';
+    font-weight : 400;
+    /* 
+        400 berarti Reguler
+    */
+}
